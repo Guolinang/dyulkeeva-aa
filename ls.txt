@@ -1,0 +1,9 @@
+итого 28K
+drwxr-xr-x  3 sad sad 4,0K фев 10 15:27 ./
+drwx------ 15 sad sad 4,0K фев 10 15:23 ../
+-rw-r--r--  1 sad sad  608 фев 10 15:24 config.txt
+-rw-r--r--  1 sad sad  171 фев 10 15:22 first.txt
+drwxr-xr-x  7 sad sad 4,0K фев 10 15:27 .git/
+-rw-r--r--  1 sad sad    0 фев 10 15:27 ls.txt
+-rw-r--r--  1 sad sad   14 фев 10 15:21 README.md
+-rw-r--r--  1 sad sad  408 фев 10 15:22 status.txt
